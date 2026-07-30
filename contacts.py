@@ -11,4 +11,5 @@ if __name__=="__main__":
     add_contact("Kiki","125384677")
     print("Arun's number: ",search_contact("Arun"))
     print("Search Kabir:", search_contact("Kabir"))
+    print("Search Kiki", search_contact("Kiki"))
     
